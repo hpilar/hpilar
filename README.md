@@ -3,10 +3,10 @@ I have a background in **communication** and a master's degree in **economics**.
 
 🔍  I'm particularly interested in:
 
-📊 Data analysis using Stata, R and Python.
-📈 Impact evaluations with experimental and quasi-experimental methods.
-🏛️ Public policies aimed at development and poverty reduction.
-🌎 Development economics and its links to education, health, and well-being.
+📊 Data analysis using Stata, R and Python.  
+📈 Impact evaluations with experimental and quasi-experimental methods.  
+🏛️ Public policies aimed at development and poverty reduction.  
+🌎 Development economics and its links to education, health, and well-being.  
 
 🚀 Currently, I'm working as a Consultant for The World Bank.
 
