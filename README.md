@@ -13,9 +13,6 @@ I have a background in **communication** and a master's degree in **economics**.
 
 ---
 
-## 🚀 Current Work  
-I'm currently working as a **Consultant for The World Bank**. 
-
 <!--
 **hpilar/hpilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
